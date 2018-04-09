@@ -6,6 +6,18 @@ URL: https://poly.google.com/view/8VysVKMXN2J
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Andy Warhol
+Author: Lisa Padilla
+URL: https://poly.google.com/view/0M2uCJUDMhZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Earth
+Author: Smirnoff Alexander
+URL: https://poly.google.com/view/53DjTbNlu9z
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Motorcycle
 Author: Poly by Google
 URL: https://poly.google.com/view/cFvmALDjMKw

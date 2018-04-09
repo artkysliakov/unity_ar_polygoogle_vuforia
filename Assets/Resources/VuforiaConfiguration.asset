@@ -44,10 +44,14 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - POLY_AR_WORHAL
+    - POLY_AR_MAPS
     - POLY_AR_MOTO
     - POLY_AR_LITAK
     - POLY_AR_AUTO
     dataSetsToActivate:
+    - POLY_AR_WORHAL
+    - POLY_AR_MAPS
     - POLY_AR_MOTO
     - POLY_AR_LITAK
     - POLY_AR_AUTO

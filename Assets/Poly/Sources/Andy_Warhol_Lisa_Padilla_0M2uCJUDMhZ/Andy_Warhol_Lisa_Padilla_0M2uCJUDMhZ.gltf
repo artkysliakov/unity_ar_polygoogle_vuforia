@@ -1,0 +1,831 @@
+{
+	"asset": {
+		"generator": "Tilt Brush 12.3.d3d9e18",
+		"version": "1.1",
+		"copyright": "Unknown."
+	},
+	"buffers": {
+		"tmp753169eb": {
+			"byteLength": 36603632,
+			"type": "arraybuffer",
+			"uri": "tmp753169eb.bin"
+		}
+	},
+	"accessors": {
+		"accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 0,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65432,
+			"max": [ 0.8398223, 1.849115, -0.4785373 ],
+			"min": [ 0.2292318, 1.262262, -0.5380363 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 785184,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65432,
+			"max": [ 0.9857668, 0.9867469, 0.9999962 ],
+			"min": [ -0.994631, -0.9959654, -0.999744 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 0,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65432,
+			"max": [ 0.8784314, 0.7921569, 0.827451, 1 ],
+			"min": [ 0.05490196, 0.05490196, 0.02745098, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 1046912,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65432,
+			"max": [ 0.999999, 0.9999979, 0.978151, 1 ],
+			"min": [ -0.9999905, -0.9999677, -0.9989567, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 0,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65432,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1570368,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65432,
+			"max": [ 0.003966161, 0.003788928, 0.003547696 ],
+			"min": [ -0.003966161, -0.003788928, -0.003547696 ],
+			"type": "VEC3"
+		 },
+		"accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 0,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 168138,
+			"max": [ 65431 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2355552,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65504,
+			"max": [ 0.8527161, 1.815633, -0.4739926 ],
+			"min": [ 0.2160966, 1.412728, -0.5478041 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 3141600,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65504,
+			"max": [ 0.9803267, 0.986251, 0.9999881 ],
+			"min": [ -0.956475, -0.99984, -0.99989 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 2093824,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65504,
+			"max": [ 0.9411765, 0.854902, 0.8392157, 1 ],
+			"min": [ 0.07450981, 0.03921569, 0.01960784, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 3141888,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65504,
+			"max": [ 0.9999929, 0.999954, 0.9984862, 1 ],
+			"min": [ -0.9999954, -0.9999452, -0.9990099, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 523456,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65504,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 3927648,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65504,
+			"max": [ 0.007352811, 0.007325009, 0.006406706 ],
+			"min": [ -0.007352811, -0.007325009, -0.006406706 ],
+			"type": "VEC3"
+		 },
+		"accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 336276,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 168138,
+			"max": [ 65503 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 4713696,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65000,
+			"max": [ 0.7092005, 1.784543, -0.4959475 ],
+			"min": [ 0.3584026, 1.251872, -0.5556833 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 5493696,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65000,
+			"max": [ 0.9988458, 0.9914131, 0.99999 ],
+			"min": [ -0.9951776, -0.9960999, -0.9998109 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 4189952,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65000,
+			"max": [ 0.9647059, 0.8, 0.772549, 1 ],
+			"min": [ 0.1137255, 0.04313726, 0.04705882, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 5229952,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65000,
+			"max": [ 0.9999997, 0.9999911, 0.9785717, 1 ],
+			"min": [ -0.9999989, -0.9999692, -0.9893585, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 1047488,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65000,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 6273696,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65000,
+			"max": [ 0.005239498, 0.005239713, 0.004030298 ],
+			"min": [ -0.005239498, -0.005239713, -0.004030298 ],
+			"type": "VEC3"
+		 },
+		"accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 672552,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 166272,
+			"max": [ 64999 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 7053696,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65342,
+			"max": [ 1.179455, 1.856544, -0.4095645 ],
+			"min": [ -0.1174456, 1.003984, -0.5618076 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 7837800,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65342,
+			"max": [ 0.9998873, 0.9909914, 0.9999918 ],
+			"min": [ -0.9999887, -0.9823044, -0.9929962 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 6269952,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65342,
+			"max": [ 0.9568627, 0.9921569, 0.9960784, 1 ],
+			"min": [ 0.1137255, 0.05490196, 0.02352941, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 7315424,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65342,
+			"max": [ 0.9999962, 0.9999978, 0.9835468, 1 ],
+			"min": [ -0.9999905, -0.9999942, -0.9924005, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 1567488,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65342,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 8621904,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65342,
+			"max": [ 0.007045583, 0.007524063, 0.006465081 ],
+			"min": [ -0.007045583, -0.007524063, -0.006465081 ],
+			"type": "VEC3"
+		 },
+		"accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 1005096,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 170790,
+			"max": [ 65341 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 9406008,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64854,
+			"max": [ 0.8747011, 1.629865, -0.4716984 ],
+			"min": [ 0.2025194, 1.088762, -0.5794419 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 10184256,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64854,
+			"max": [ 0.9847505, 0.9832342, 0.9999974 ],
+			"min": [ -0.9972215, -0.994139, -0.9869439 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 8360896,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64854,
+			"max": [ 0.9098039, 0.7137255, 0.654902, 1 ],
+			"min": [ 0.2784314, 0.1215686, 0.03921569, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 9398560,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 64854,
+			"max": [ 0.9999878, 0.9999912, 0.9928763, 1 ],
+			"min": [ -0.9999996, -0.9999729, -0.9876785, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 2090224,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 64854,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 10962504,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 64854,
+			"max": [ 0.01110187, 0.01138604, 0.009048093 ],
+			"min": [ -0.01110187, -0.01138604, -0.009048093 ],
+			"type": "VEC3"
+		 },
+		"accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 1346676,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 170466,
+			"max": [ 64853 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 11740752,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65172,
+			"max": [ 1.202331, 2.353792, -0.4693466 ],
+			"min": [ -0.1248597, 1.044768, -0.6430728 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 12522816,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65172,
+			"max": [ 0.9927492, 0.9841097, 0.9999874 ],
+			"min": [ -0.9832368, -0.9932846, -0.9926682 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 10436224,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65172,
+			"max": [ 0.945098, 0.8156863, 0.7960784, 1 ],
+			"min": [ 0.145098, 0.1019608, 0.0627451, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 11478976,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 65172,
+			"max": [ 0.9998745, 0.9999979, 0.9766087, 1 ],
+			"min": [ -0.9999828, -0.9999893, -0.9991947, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 2609056,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 65172,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 13304880,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 65172,
+			"max": [ 0.01212907, 0.01113911, 0.01001769 ],
+			"min": [ -0.01212907, -0.01113911, -0.01001769 ],
+			"type": "VEC3"
+		 },
+		"accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 1687608,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 173592,
+			"max": [ 65171 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 14086944,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 59250,
+			"max": [ 1.173991, 2.312578, -0.4761445 ],
+			"min": [ -0.09354516, 1.017581, -0.6584017 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 14797944,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 59250,
+			"max": [ 0.9842815, 0.9899973, 0.9999983 ],
+			"min": [ -0.9625316, -0.9646919, -0.9979348 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 12521728,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 59250,
+			"max": [ 1, 1, 1, 1 ],
+			"min": [ 0.09411765, 0.07058824, 0.05098039, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 13469728,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 59250,
+			"max": [ 0.9999828, 0.9999658, 0.9966083, 1 ],
+			"min": [ -0.9999971, -0.9999934, -0.9889852, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"bufferView": "vec2BufferView",
+			"byteOffset": 3130432,
+			"byteStride": 8,
+			"componentType": 5126,
+			"count": 59250,
+			"max": [ 1, 1 ],
+			"min": [ 0, 0 ],
+			"type": "VEC2"
+		 },
+		"accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 15508944,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 59250,
+			"max": [ 0.01641245, 0.01705286, 0.01515089 ],
+			"min": [ -0.01641245, -0.01705286, -0.01515089 ],
+			"type": "VEC3"
+		 },
+		"accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 2034792,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 163368,
+			"max": [ 59249 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 }
+	},
+	"bufferViews": {
+		"ushortBufferView": {
+			"buffer": "tmp753169eb",
+			"byteLength": 2361528,
+			"byteOffset": 0,
+			"target": 34963
+		},
+		"vec2BufferView": {
+			"buffer": "tmp753169eb",
+			"byteLength": 3604432,
+			"byteOffset": 2361528,
+			"target": 34962
+		},
+		"vec3BufferView": {
+			"buffer": "tmp753169eb",
+			"byteLength": 16219944,
+			"byteOffset": 5965960,
+			"target": 34962
+		},
+		"vec4BufferView": {
+			"buffer": "tmp753169eb",
+			"byteLength": 14417728,
+			"byteOffset": 22185904,
+			"target": 34962
+		}
+	},
+	"meshes": {
+		"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566": {
+			"name": "mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+						"NORMAL": "accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+						"COLOR": "accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+						"TANGENT": "accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+						"TEXCOORD_0": "accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+						"TEXCOORD_1": "accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566"
+					},
+					"indices": "accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+					"material": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850": {
+			"name": "mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+						"NORMAL": "accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+						"COLOR": "accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+						"TANGENT": "accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+						"TEXCOORD_0": "accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+						"TEXCOORD_1": "accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850"
+					},
+					"indices": "accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+					"material": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600": {
+			"name": "mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+						"NORMAL": "accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+						"COLOR": "accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+						"TANGENT": "accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+						"TEXCOORD_0": "accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+						"TEXCOORD_1": "accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600"
+					},
+					"indices": "accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+					"material": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808": {
+			"name": "mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+						"NORMAL": "accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+						"COLOR": "accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+						"TANGENT": "accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+						"TEXCOORD_0": "accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+						"TEXCOORD_1": "accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808"
+					},
+					"indices": "accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+					"material": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668": {
+			"name": "mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+						"NORMAL": "accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+						"COLOR": "accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+						"TANGENT": "accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+						"TEXCOORD_0": "accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+						"TEXCOORD_1": "accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668"
+					},
+					"indices": "accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+					"material": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798": {
+			"name": "mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+						"NORMAL": "accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+						"COLOR": "accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+						"TANGENT": "accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+						"TEXCOORD_0": "accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+						"TEXCOORD_1": "accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798"
+					},
+					"indices": "accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+					"material": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738": {
+			"name": "mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738",
+						"NORMAL": "accessor_normal_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738",
+						"COLOR": "accessor_color_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738",
+						"TANGENT": "accessor_tangent_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738",
+						"TEXCOORD_0": "accessor_uv0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738",
+						"TEXCOORD_1": "accessor_uv1_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738"
+					},
+					"indices": "accessor_indices_0_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738",
+					"material": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+					"mode": 4
+				}
+			]
+		}
+	},
+	"shaders": {
+		"vertex_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126": {
+			"type": 35633,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126/DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126-v10.0-vertex.glsl"
+		},
+		"fragment_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126": {
+			"type": 35632,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126/DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126-v10.0-fragment.glsl"
+		}
+	},
+	"programs": {
+		"program_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color",
+				"a_tangent",
+				"a_texcoord0",
+				"a_texcoord1"				
+			],
+			"vertexShader": "vertex_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+			"fragmentShader": "fragment_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126"
+		}
+	},
+	"techniques": {
+		"technique_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126": {
+			"program": "program_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"tangent": {
+					"type": 35666,
+					"semantic": "TANGENT"
+				},
+				"texcoord0": {
+					"type": 35664,
+					"semantic": "TEXCOORD_0"
+				},
+				"texcoord1": {
+					"type": 35665,
+					"semantic": "TEXCOORD_1"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"SceneLight_0_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_0"
+				},
+				"SceneLight_0_color": {
+					"type": 35666,
+					"node": "node_SceneLight_0"
+				},
+				"SceneLight_1_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_1"
+				},
+				"SceneLight_1_color": {
+					"type": 35666,
+					"node": "node_SceneLight_1"
+				},
+				"ambient_light_color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color",
+				"a_tangent": "tangent",
+				"a_texcoord0": "texcoord0",
+				"a_texcoord1": "texcoord1"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_SceneLight_0_matrix": "SceneLight_0_matrix",
+				"u_SceneLight_0_color": "SceneLight_0_color",
+				"u_SceneLight_1_matrix": "SceneLight_1_matrix",
+				"u_SceneLight_1_color": "SceneLight_1_color",
+				"u_ambient_light_color": "ambient_light_color"				
+			},
+			"states": {
+				"enable": [
+					2929
+				],
+				"functions": {
+					"depthMask": [true]
+				}
+			}
+		}
+	},
+	"materials": {
+		"material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126": {
+			"technique": "technique_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+			"values": {
+				"SceneLight_0_color": [0.7780392, 0.8156863, 0.9913726, 1],
+				"SceneLight_1_color": [0.4282353, 0.4211765, 0.3458824, 1],
+				"ambient_light_color": [0.3921569, 0.3921569, 0.3921569, 1]				
+			},
+			"name": "material_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126"
+		}
+	},
+	"nodes": {
+		"node_Main_Canvas": {
+			"name": "node_Main_Canvas",
+			"meshes": [
+				"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_0_-2321566",
+				"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_1_-2322850",
+				"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_2_-2323600",
+				"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_3_-2324808",
+				"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_4_-2325668",
+				"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_5_-2327798",
+				"mesh_DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126_strokes_6_-2328738"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_SceneLight_0": {
+			"name": "node_SceneLight_0",
+			"light": "SceneLight_0",
+			"matrix": [0.8987941, 0.2191855, -0.3796405, 0, -0.4383711, 0.449397, -0.7783784, 0, 0, 0.8660254, 0.5, 0, 4.540694, 14.46992, 5.71526, 1]
+		},
+		"node_SceneLight_1": {
+			"name": "node_SceneLight_1",
+			"light": "SceneLight_1",
+			"matrix": [0.7660444, -0.4924039, -0.4131759, 0, -0.6427876, -0.5868242, -0.4924039, 0, 8.940697E-08, 0.6427876, -0.7660446, 0, 4.540694, 14.45512, 5.63129, 1]
+		}
+	},
+	"scene": "defaultScene",
+	"scenes": {
+		"defaultScene": {
+			"nodes": [
+				"node_Main_Canvas",
+				"node_SceneLight_0",
+				"node_SceneLight_1"
+			],
+			"extras": {
+				"TB_EnvironmentGuid": "580b4529-ac50-4fe9-b8d2-635765a14893",
+				"TB_Environment": "Black",
+				"TB_SkyColorA": "0, 0, 0",
+				"TB_SkyColorB": "0, 0, 0",
+				"TB_SkyGradientDirection": "0, 1, 0",
+				"TB_FogColor": "0.01960784, 0.01960784, 0.01960784",
+				"TB_FogDensity": "0",
+				"TB_SkyColorHorizon": "0, 0, 0",
+				"TB_SkyColorZenith": "0, 0, 0"
+			}
+		}
+	}
+}
